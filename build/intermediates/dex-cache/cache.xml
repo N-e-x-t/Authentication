@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jigar/.android/build-cache/7404fc7c333e863bdc8e28a6407c0da9b26de982/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/jigar/Desktop/AndroidProjects/Authentication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac2564394f70a84ff0451b307ba76c725555854a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jigar/.android/build-cache/7946cbac344fbd40371ee8b1eaf814864dcf7ac4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/jigar/Desktop/AndroidProjects/Authentication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62505362c6d0d5da37840675256f1abf7840ed28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jigar/.android/build-cache/652b7a3ca61f2e91c4129070924e365a4f7d8b35/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/jigar/Desktop/AndroidProjects/Authentication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6b32bc3fac05af34807c3f64b30208efeedbffa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jigar/Desktop/AndroidProjects/Authentication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a0aed6618717864abda53fc670725a0408178b21">
+        <dex dex="/Users/jigar/Desktop/AndroidProjects/Authentication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_09884d54bb809309a69303c5bf2e7c4dcdb7a178/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jigar/Desktop/AndroidProjects/Authentication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/jigar/Desktop/AndroidProjects/Authentication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_33468a87569a7e1a2a75ef34d3de3159ce615899/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jigar/.android/build-cache/ace8bcbca871d6791887b06c4627d0361378c6e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/jigar/Desktop/AndroidProjects/Authentication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_89ef1125e687ac4e98521b4c312909961b20ffd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jigar/.android/build-cache/82fb9756cc7c3dc829560c6afbd61f44ce5e44c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/jigar/Desktop/AndroidProjects/Authentication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ad004ea8cf9e2fd025a91f40788bd667719da68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jigar/.android/build-cache/4ca2c783c4ce4504fb3091e992b885201c7aac24/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/jigar/Desktop/AndroidProjects/Authentication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a8d8d1af6ae49f57c2a9d1d771092acae2bcd61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jigar/.android/build-cache/4922b3e2f81af4a30429621d303a942aaaca3c64/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/jigar/Desktop/AndroidProjects/Authentication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_96e8c0c43f3a2d89ef0e005aa2b5cfc78899114a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jigar/.android/build-cache/2417d06362e7e8d1128f9cf5bb2be8bd8f1e5e3e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/jigar/Desktop/AndroidProjects/Authentication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d101873a224af0ee021719f5e206bed3118f3600/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jigar/.android/build-cache/759e6e3d0d10c4b1c008553f59fe36f3201c833d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/jigar/Desktop/AndroidProjects/Authentication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d8f8144bebb6c9a0c2bf3729168a94c2a654b4a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jigar/.android/build-cache/3f4aa830c2cd3c4e852367a058eab9824cdd2303/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/jigar/Desktop/AndroidProjects/Authentication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_49affa16e58f5d3014f8c400f86de2437cc061c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jigar/.android/build-cache/dbc2d1929b976a6317bd41139d2eb56885d16c4d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/jigar/Desktop/AndroidProjects/Authentication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b338a71557536f8e297ce43be5c21ce5e35f5cfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jigar/.android/build-cache/52af266fb89f14270c5b54683e692e7e59dc640e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/jigar/Desktop/AndroidProjects/Authentication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ba63419b0462ef9a767afefb800b1c785ef80e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jigar/.android/build-cache/bff188f3eb59498167ec52d8ea02987ab8b5c9d0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/jigar/Desktop/AndroidProjects/Authentication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ce94e561142f919b29859130c12ae698a392f49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jigar/.android/build-cache/0ba5c947e7731907e99d680f19765b3fbe25759d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/jigar/Desktop/AndroidProjects/Authentication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e90bb335d9bb4f34f01f62ca29c0a70ddcca8d81/classes.dex" />
+    </item>
+
+</items>
