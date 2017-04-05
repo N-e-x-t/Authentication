@@ -20,7 +20,7 @@ public class Dashboard extends AppCompatActivity implements View.OnClickListener
 
     private TextView txtWelcome;
     private EditText input_new_password;
-    private Button btnChangePass,btnLogout/*btnWebview*/;
+    private Button btnChangePass,btnLogout;
     private RelativeLayout activity_dashboard;
 
     private FirebaseAuth auth;
@@ -35,12 +35,10 @@ public class Dashboard extends AppCompatActivity implements View.OnClickListener
         input_new_password = (EditText)findViewById(R.id.dashboard_new_password);
         btnChangePass = (Button)findViewById(R.id.dashboard_btn_change_pass);
         btnLogout = (Button)findViewById(R.id.dashboard_btn_logout);
-        //btnWebview = (Button)findViewById(R.id.dashboard_btn_webview);
         activity_dashboard = (RelativeLayout)findViewById(R.id.activity_dashboard);
 
         btnChangePass.setOnClickListener(this);
         btnLogout.setOnClickListener(this);
-        //btnWebview.setOnClickListener(this);
 
         //Init Firebase
         auth = FirebaseAuth.getInstance();
@@ -58,11 +56,7 @@ public class Dashboard extends AppCompatActivity implements View.OnClickListener
             changePassword(input_new_password.getText().toString());
         else if (view.getId() == R.id.dashboard_btn_logout)
             logoutUser();
-        /*else if (view.getId() == R.id.dashboard_btn_webview) {
 
-            startActivity(new Intent(Dashboard.this, WebView.class));
-            finish();
-        }*/
     }
 
     private void logoutUser() {

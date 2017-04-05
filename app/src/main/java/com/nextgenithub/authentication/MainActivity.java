@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btnSignup.setOnClickListener(this);
         btnForgotPass.setOnClickListener(this);
         btnLogin.setOnClickListener(this);
+        btnLogin.setOnClickListener(this);
 
         //Init Firebase Auth
         auth = FirebaseAuth.getInstance();
